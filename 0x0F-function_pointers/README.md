@@ -1,2 +1,0 @@
-pointers are here
-
